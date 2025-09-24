@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248933152538",
+    "project_id": "student-innovation-8534b",
+    "storage_bucket": "student-innovation-8534b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248933152538:android:81e5021045f061009fdea3",
+        "android_client_info": {
+          "package_name": "com.example.studentinnovation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAJ22khPms9Zy4MkCv_2SZU6_LnMUV8iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
